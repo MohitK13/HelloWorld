@@ -19,3 +19,5 @@ changes in master
 2nd change from master
 My change to it
 2nd from my repo
+3rd from repo
+
