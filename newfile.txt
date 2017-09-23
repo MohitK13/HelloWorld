@@ -12,5 +12,5 @@ from github to test stash
 
 Change from Forked Repo
 Change from Master
-
+Change from master to pull
 
